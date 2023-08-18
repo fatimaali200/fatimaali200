@@ -9,7 +9,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript
+- **Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB  
 <!--
