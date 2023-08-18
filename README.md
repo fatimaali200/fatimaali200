@@ -2,7 +2,7 @@
 
 I'm a backend developer with a vision of evolving into a full-stack developer. My current journey revolves around JavaScript frameworks, where I specialize in **Node.js**, **Express.js**, and **MongoDB** for robust backend development. Additionally, I'm exploring the possibilities of **Next.js** to craft dynamic and engaging frontend experiences.
 
-- 🔭 I'm currently working on the **HomeTaste Project**, where I'm connecting chefs with those who can't cook. This project aims to make delicious homemade meals accessible to everyone.
+- 🔭 I'm currently working on the **HomeTaste Project**.
 - 🌱 I’m currently learning **Nest.js** to enhance my backend development skills. Exploring new technologies keeps me motivated and ready for exciting challenges.
 - 👯 I'm enthusiastic about collaborating on projects that align with my interests. If you have an idea or project, feel free to reach out!
 - 💬 If you have questions about backend development, JavaScript frameworks, or anything related to my journey, feel free to ask. I'm here to help!
