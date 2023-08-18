@@ -14,5 +14,3 @@ I'm a backend developer with a vision of evolving into a full-stack developer. M
 - **Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white), ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white), ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 - **Database:** ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-I'm passionate about continuous learning and growth, and I'm excited to contribute my skills to innovative projects. Let's connect and create something amazing together!
-Feel free to copy and paste this updated version into your GitHub profile README. If you have any further suggestions or changes you'd like to make, just let me know!
