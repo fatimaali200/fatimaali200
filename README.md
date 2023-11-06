@@ -2,8 +2,7 @@
 
 I'm a backend developer with a vision of evolving into a full-stack developer. My current journey revolves around JavaScript frameworks, where I specialize in **Node.js**, **Express.js**, and **MongoDB** for robust backend development. Additionally, I'm exploring the possibilities of **Next.js** to craft dynamic and engaging frontend experiences.
 
-- 🔭 I'm currently working on the **HomeTaste Project**.
-- 🌱 I’m currently learning **Nest.js** to enhance my backend development skills. 
+- 🔭 I'm currently working on the **Traval log**.
 - 👯 I'm enthusiastic about collaborating on projects that align with my interests. If you have an idea or project, feel free to reach out!
 - 💬 If you have questions about backend development, JavaScript frameworks, or anything related to my journey, feel free to ask. I'm here to help!
 - 📫 You can reach me via [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-ali-558b061b1/)
